@@ -134,5 +134,6 @@
 }
 
 .waving {
-    animation: wave 1s alternate infinite ease-in-out;
+    /*animation: wave 1s alternate infinite ease-in-out;*/
+    animation: wave 1s alternate;
 }

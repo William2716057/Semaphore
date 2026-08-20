@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\Semaphore\Semaphore\obj\Debug\Semaphore.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\Semaphore\Semaphore\obj\Debug\Semaphore.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\Semaphore\Semaphore\bin\Microsoft.NodejsTools.WebRole.dll

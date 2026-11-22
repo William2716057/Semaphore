@@ -132,6 +132,25 @@ body {
     transition: transform 0.15s ease-out;
 }
 
+.flag {
+    position: absolute;
+    top: -20px; /* centres the 40px square on the arm line */
+    width: 40px;
+    height: 40px;
+    /*red and yellow split diagonally */
+    background: linear-gradient(to bottom right, #d62828 50%, #fcbf49 50%);
+    border: 2px solid #fff;
+    box-shadow: none;
+}
+
+.leftarm .flag {
+    right: calc(100% + 3px);
+}
+
+.rightarm .flag {
+    left: calc(100% + 3px);
+}
+
 @keyframes wave {
     0% {
         transform: rotate(-15deg);
